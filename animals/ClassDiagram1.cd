@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="animals.Animals">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animals.Lion">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animals.Bird">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animals.Dolphin">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dolphin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animals.Titmouse">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Titmouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
